@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+
+for i in range(12, 16):
+    print(i)
+print('-------' * 5)
+
+for i in range(0, 10, 2):
+    print(i)
+print('-------' * 5)
+
+for i in range(5, -1, -1):
+    print(i)
+print('-------' * 5)
